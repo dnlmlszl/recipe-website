@@ -1,0 +1,1 @@
+I made this small using the database of themealDB.com. The main aim of the project was to practice data fetching and to manage the data that comes in.
